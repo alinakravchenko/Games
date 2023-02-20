@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Games", "Games\Games.csproj", "{DAD2B478-D14C-447D-B572-5750D807604F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameDll", "GameDll\GameDll.csproj", "{40C4CEDA-6754-4B5D-9F0D-475769410F15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamesContext", "GamesContext\GamesContext.csproj", "{84E8C973-0656-4C35-B828-70161588117B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAD2B478-D14C-447D-B572-5750D807604F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD2B478-D14C-447D-B572-5750D807604F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD2B478-D14C-447D-B572-5750D807604F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD2B478-D14C-447D-B572-5750D807604F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40C4CEDA-6754-4B5D-9F0D-475769410F15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40C4CEDA-6754-4B5D-9F0D-475769410F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40C4CEDA-6754-4B5D-9F0D-475769410F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40C4CEDA-6754-4B5D-9F0D-475769410F15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84E8C973-0656-4C35-B828-70161588117B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84E8C973-0656-4C35-B828-70161588117B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84E8C973-0656-4C35-B828-70161588117B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84E8C973-0656-4C35-B828-70161588117B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82C18E0C-9A9F-49E6-B482-DACBF2ABEB8B}
+	EndGlobalSection
+EndGlobal
